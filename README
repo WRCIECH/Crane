@@ -1,0 +1,2 @@
+Repository contains Python program which calculate different nonlinear control strategies for simple crane model.
+Control strategies: feedback linearization, Sliding mode, PID, input-state linearization, input-output linearization.
